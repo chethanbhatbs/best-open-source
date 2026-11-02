@@ -1,0 +1,56 @@
+# One project per line:  owner/name
+# Optional note after a pipe:  owner/name | why it is worth knowing
+# Lines starting with "## " start a new section.
+# Then run:  python3 scripts/build.py
+
+## Lists and directories
+public-apis/public-apis | Free APIs sorted by topic. First stop when a side project needs data.
+sindresorhus/awesome | The index of every "awesome" list.
+awesome-selfhosted/awesome-selfhosted
+EbookFoundation/free-programming-books
+codecrafters-io/build-your-own-x | Learn a tool by rebuilding it: git, Docker, a database, a shell.
+
+## Learning
+nilbuild/developer-roadmap
+donnemartin/system-design-primer
+jwasham/coding-interview-university
+ossu/computer-science
+practical-tutorials/project-based-learning
+TheAlgorithms/Python
+freeCodeCamp/freeCodeCamp
+
+## Testing and QA
+microsoft/playwright
+cypress-io/cypress
+SeleniumHQ/selenium
+grafana/k6
+usebruno/bruno | Offline API client; collections live as plain files in git.
+hoppscotch/hoppscotch
+
+## Developer tools
+microsoft/vscode
+neovim/neovim
+cli/cli
+junegunn/fzf
+BurntSushi/ripgrep
+sharkdp/bat
+jesseduffield/lazygit
+ohmyzsh/ohmyzsh
+
+## AI and agents
+ollama/ollama | Run open models on your own laptop with one command.
+ggml-org/llama.cpp
+open-webui/open-webui
+huggingface/transformers
+langchain-ai/langchain
+modelcontextprotocol/servers
+vercel-labs/agent-browser
+thedotmack/claude-mem
+
+## Self-hosted apps
+n8n-io/n8n
+immich-app/immich
+home-assistant/core
+jellyfin/jellyfin
+nextcloud/server
+supabase/supabase
