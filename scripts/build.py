@@ -62,7 +62,7 @@ def main():
     anchors = "\n".join(f"- [{t}](#{t.lower().replace(' ', '-')})" for t, _ in out)
     readme = f"""# Best Open Source
 
-A hand-picked list of open-source projects worth knowing, in one place.
+Open-source projects I actually use, in one place.
 
 **{total} projects.** Stars, licence and last-update dates are pulled live from the GitHub API by `scripts/build.py`. Last pulled: **{today}**.
 
