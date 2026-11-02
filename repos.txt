@@ -1,0 +1,22 @@
+# One project per line:  owner/name
+# Optional note after a pipe:  owner/name | why it is worth knowing
+# Lines starting with "## " start a new section.
+# Then run:  python3 scripts/build.py
+
+## Lists and directories
+public-apis/public-apis | Free APIs sorted by topic. First stop when a side project needs data.
+
+## Testing
+microsoft/playwright
+
+## Developer tools
+microsoft/vscode
+cli/cli
+junegunn/fzf
+sharkdp/bat
+jesseduffield/lazygit
+ohmyzsh/ohmyzsh
+
+## AI and agents
+vercel-labs/agent-browser
+thedotmack/claude-mem

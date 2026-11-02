@@ -1,0 +1,11 @@
+repo	stars	license	pushed	lang	archived
+public-apis/public-apis	495277	MIT	2026-11-01	Python	no
+microsoft/playwright	99092	Apache-2.0	2026-11-02	TypeScript	no
+microsoft/vscode	194472	MIT	2026-11-02	TypeScript	no
+cli/cli	46842	MIT	2026-10-30	Go	no
+junegunn/fzf	83929	MIT	2026-10-29	Go	no
+sharkdp/bat	61020	Apache-2.0	2026-11-02	Rust	no
+jesseduffield/lazygit	83601	MIT	2026-10-31	Go	no
+ohmyzsh/ohmyzsh	190286	MIT	2026-11-02	Shell	no
+vercel-labs/agent-browser	45202	Apache-2.0	2026-11-01	Rust	no
+thedotmack/claude-mem	110154	Apache-2.0	2026-11-02	TypeScript	no
